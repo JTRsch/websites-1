@@ -1,7 +1,7 @@
 {
-  "name": "websites",
+  "name": "FELINOS",
   "version": "0.0.0",
-  "description": "180 websites en 180 dias",
+  "description": "UNA SENCILLA WEB DE FELINOS",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages-deploy",
